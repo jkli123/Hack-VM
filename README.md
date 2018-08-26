@@ -8,5 +8,5 @@ As the command line portion was never implemented,
 1) Head into VM.java and change the pathDir variable under the main method to the directory where the VM file exists
 2) Compile and run the program
 
-#Future Possibilities
+# Future Possibilities
 Implement the command line function.
